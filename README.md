@@ -10,19 +10,13 @@ The project also develops predictive models to forecast stock prices and compare
 
 The project focuses on two main objectives:
 
-Financial Strength Analysis
-
-Evaluate the financial health of LOLC Holdings using financial ratio analysis.
-
-Assess liquidity, solvency, profitability, efficiency, and financial trends.
-
-Stock Market Performance Analysis
-
-Analyze the relationship between financial performance and stock market valuation.
-
-Develop predictive models to forecast stock prices.
-
-Compare financial drivers influencing stock prices in pre-pandemic and post-pandemic periods.
+1. Financial Strength Analysis
+2. Evaluate the financial health of LOLC Holdings using financial ratio analysis.
+3. Assess liquidity, solvency, profitability, efficiency, and financial trends.
+3. Stock Market Performance Analysis
+4. Analyze the relationship between financial performance and stock market valuation.
+5. Develop predictive models to forecast stock prices.
+6. Compare financial drivers influencing stock prices in pre-pandemic and post-pandemic periods.
 
 **Methodology**
 
@@ -30,15 +24,11 @@ Compare financial drivers influencing stock prices in pre-pandemic and post-pand
 
 Financial statement data from 2014–2024 was used to conduct several financial analyses:
 
-Trend Analysis
-
-Liquidity Analysis
-
-Solvency and Risk Assessment
-
-Profitability Analysis
-
-Efficiency Analysis
+1. Trend Analysis
+2. Liquidity Analysis
+3. Solvency and Risk Assessment
+4. Profitability Analysis
+5. Efficiency Analysis
 
 These analyses help evaluate the company's financial stability, operational performance, and long-term sustainability.
 
@@ -46,21 +36,17 @@ These analyses help evaluate the company's financial stability, operational perf
 
 A Multivariate Exponential Growth Model was developed to predict stock prices using key financial indicators such as:
 
-Gross Profit Margin
-
-Market Capitalization
-
-Total Equity
-
-Revenue
-
-Debt-to-Equity Ratio
+1. Gross Profit Margin
+2. Market Capitalization
+3. Total Equity
+4. Revenue
+5. Debt-to-Equity Ratio
 
 Two models were created to capture structural changes in the market:
 
-Pre-Pandemic Model (2014–2019)
+**Pre-Pandemic Model (2014–2019)**
 
-Post-Pandemic Model (2020–2024)
+**Post-Pandemic Model (2020–2024)**
 
 The models were used to analyze how the COVID-19 pandemic influenced the drivers of stock price movements.
 
@@ -81,43 +67,18 @@ Forecasts suggest positive long-term stock price growth, indicating strong inves
 **Tools and Technologies**
 
 Microsoft Excel – Data analysis and financial modeling
-
 SPSS – Statistical analysis and model development
-
 Financial Statement Data Analysis
-
 Stock Market Data Analysis
-
 Skills Demonstrated
-
 Financial Statement Analysis
-
 Investment Analysis
-
 Stock Market Analysis
-
 Financial Modeling
-
 Predictive Modeling
-
 Quantitative Finance
-
 Data Analysis
-
 Risk Assessment
-
 Project Relevance
-
-This project demonstrates skills relevant to careers in:
-
-Investment Banking
-
-Financial Analysis
-
-Equity Research
-
-Actuarial Science
-
-Quantitative Finance
 
 The study highlights how financial metrics and economic shocks such as COVID-19 influence market valuation and investor behavior.
