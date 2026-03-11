@@ -52,17 +52,12 @@ The models were used to analyze how the COVID-19 pandemic influenced the drivers
 
 **Key Findings**
 
-LOLC Holdings demonstrates strong financial growth with increasing revenue, assets, equity, and profitability.
-
-Liquidity ratios indicate the company maintains healthy short-term financial stability.
-
-The debt-to-equity ratio shows improved financial stability over time.
-
-Stock prices were primarily driven by profitability indicators before COVID-19.
-
-After the pandemic, revenue growth and financial stability indicators became more influential in stock price movements.
-
-Forecasts suggest positive long-term stock price growth, indicating strong investment potential.
+1. LOLC Holdings demonstrates strong financial growth with increasing revenue, assets, equity, and profitability.
+2. Liquidity ratios indicate the company maintains healthy short-term financial stability.
+3. The debt-to-equity ratio shows improved financial stability over time.
+4. Stock prices were primarily driven by profitability indicators before COVID-19.
+5. After the pandemic, revenue growth and financial stability indicators became more influential in stock price movements.
+6. Forecasts suggest positive long-term stock price growth, indicating strong investment potential.
 
 **Tools and Technologies**
 
