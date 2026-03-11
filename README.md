@@ -1,17 +1,123 @@
 # Analysis of Financial Strength and Stock Market Health of LOLC Holdings
-Evaluated LOLC Holdings’ financial strength using liquidity, solvency, profitability, efficiency, and trend analysis based on financial statement data. Developed multivariate exponential growth models to forecast stock prices and analyze how key financial drivers of market performance changed between pre- and post-COVID-19 periods.
-Conducted a comprehensive financial and market analysis of LOLC Holdings PLC, one of Sri Lanka’s largest diversified conglomerates, to evaluate its financial health and stock market performance over a ten-year period.
 
-Performed trend analysis, liquidity analysis, solvency and risk assessment, profitability analysis, and efficiency analysis using financial statement data to assess the company’s financial strength and long-term sustainability. 
+**Project Overview**
 
-Group 04 (1)
+This project analyzes the financial strength and stock market performance of LOLC Holdings PLC, one of Sri Lanka’s largest diversified conglomerates. The study evaluates the company’s financial health using financial statement analysis and investigates how financial indicators influence stock market behavior.
 
-Developed a Multivariate Exponential Growth Model to predict stock prices using key financial indicators such as gross profit margin, market capitalization, and total equity, and built separate predictive models for pre-pandemic (2014–2019) and post-pandemic (2020–2024) periods to analyze changes in market dynamics following COVID-19. 
+The project also develops predictive models to forecast stock prices and compares market dynamics before and after the COVID-19 pandemic, highlighting shifts in key financial drivers affecting stock performance.
 
-Group 04 (1)
+**Objectives**
 
-The analysis revealed shifts in key drivers of stock performance, highlighting how profitability metrics influenced stock prices before the pandemic, while revenue growth and financial stability indicators such as the debt-to-equity ratio became more significant after the pandemic. 
+The project focuses on two main objectives:
 
-Group 04 (1)
+Financial Strength Analysis
 
-The study also forecasted LOLC Holdings’ stock price trends through 2027–2029, providing insights into long-term investment potential and financial stability.
+Evaluate the financial health of LOLC Holdings using financial ratio analysis.
+
+Assess liquidity, solvency, profitability, efficiency, and financial trends.
+
+Stock Market Performance Analysis
+
+Analyze the relationship between financial performance and stock market valuation.
+
+Develop predictive models to forecast stock prices.
+
+Compare financial drivers influencing stock prices in pre-pandemic and post-pandemic periods.
+
+**Methodology**
+
+**Financial Analysis**
+
+Financial statement data from 2014–2024 was used to conduct several financial analyses:
+
+Trend Analysis
+
+Liquidity Analysis
+
+Solvency and Risk Assessment
+
+Profitability Analysis
+
+Efficiency Analysis
+
+These analyses help evaluate the company's financial stability, operational performance, and long-term sustainability.
+
+**Predictive Modeling**
+
+A Multivariate Exponential Growth Model was developed to predict stock prices using key financial indicators such as:
+
+Gross Profit Margin
+
+Market Capitalization
+
+Total Equity
+
+Revenue
+
+Debt-to-Equity Ratio
+
+Two models were created to capture structural changes in the market:
+
+Pre-Pandemic Model (2014–2019)
+
+Post-Pandemic Model (2020–2024)
+
+The models were used to analyze how the COVID-19 pandemic influenced the drivers of stock price movements.
+
+**Key Findings**
+
+LOLC Holdings demonstrates strong financial growth with increasing revenue, assets, equity, and profitability.
+
+Liquidity ratios indicate the company maintains healthy short-term financial stability.
+
+The debt-to-equity ratio shows improved financial stability over time.
+
+Stock prices were primarily driven by profitability indicators before COVID-19.
+
+After the pandemic, revenue growth and financial stability indicators became more influential in stock price movements.
+
+Forecasts suggest positive long-term stock price growth, indicating strong investment potential.
+
+**Tools and Technologies**
+
+Microsoft Excel – Data analysis and financial modeling
+
+SPSS – Statistical analysis and model development
+
+Financial Statement Data Analysis
+
+Stock Market Data Analysis
+
+Skills Demonstrated
+
+Financial Statement Analysis
+
+Investment Analysis
+
+Stock Market Analysis
+
+Financial Modeling
+
+Predictive Modeling
+
+Quantitative Finance
+
+Data Analysis
+
+Risk Assessment
+
+Project Relevance
+
+This project demonstrates skills relevant to careers in:
+
+Investment Banking
+
+Financial Analysis
+
+Equity Research
+
+Actuarial Science
+
+Quantitative Finance
+
+The study highlights how financial metrics and economic shocks such as COVID-19 influence market valuation and investor behavior.
