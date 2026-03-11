@@ -44,9 +44,8 @@ A Multivariate Exponential Growth Model was developed to predict stock prices us
 
 Two models were created to capture structural changes in the market:
 
-**Pre-Pandemic Model (2014–2019)**
-
-**Post-Pandemic Model (2020–2024)**
+**1. Pre-Pandemic Model (2014–2019)**
+**2. Post-Pandemic Model (2020–2024)**
 
 The models were used to analyze how the COVID-19 pandemic influenced the drivers of stock price movements.
 
