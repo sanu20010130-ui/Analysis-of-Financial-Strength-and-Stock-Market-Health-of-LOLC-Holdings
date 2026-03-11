@@ -1,2 +1,2 @@
-# Analysis-of-Financial-Strength-and-Stock-Market-Health-of-LOLC-Holdings
+# Analysis of Financial Strength and Stock Market Health of LOLC Holdings
 Evaluated LOLC Holdings’ financial strength using liquidity, solvency, profitability, efficiency, and trend analysis based on financial statement data. Developed multivariate exponential growth models to forecast stock prices and analyze how key financial drivers of market performance changed between pre- and post-COVID-19 periods.
